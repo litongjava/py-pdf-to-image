@@ -9,6 +9,9 @@ pip install pymupdf argparse
 pip install pyinstaller
 ```
 
+```
+pip install pyinstaller
+```
 ## how to use
 ```shell
 py-pdf-to-image xxx.pdf -d .
